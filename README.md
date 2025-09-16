@@ -1,0 +1,2 @@
+# KWK-Mariana-Castellanos-Computer-Science-diveristy-Challenge
+This is the repository containing what  I have worked the past month in regards to understanding and analyzing the patterns in underrepresentation in Hispanic, Latinos and Women in STEM. Using pandas and python libraries, I scrapes, cleaned and visualized data to better understand the patterns in STEM misrepresentation, from school, to wages.
