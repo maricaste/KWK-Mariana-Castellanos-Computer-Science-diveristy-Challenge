@@ -7,4 +7,10 @@ I also used Looker Studio in order to visualize more complex data on post gradua
 
 Finally, I used Seaborn and Pandas to clean and visualize salary data from the National Survey of College graudates to analyze the wages of Science and Engineering graduates across sex and Race/Ethnicity.
 
+ ChatGPT and Gemini aided to help me understand how to melt data sets, how to plot my data and change formatting in my visualizations. 
 
+
+Sources:
+https://ocrdata.ed.gov/profile/us/ca?surveyYear=2020
+https://ncses.nsf.gov/pubs/nsf22310
+https://www.pewresearch.org/science/2022/06/14/many-hispanic-americans-see-more-representation-visibility-as-helpful-for-increasing-diversity-in-science/
